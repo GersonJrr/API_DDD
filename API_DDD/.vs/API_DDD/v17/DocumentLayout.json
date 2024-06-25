@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\infrastructure\\repository\\repositories\\repositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repositories\\repositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\infrastructure\\repository\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryMessage.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:11:28.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryGenerics.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:03:48.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
