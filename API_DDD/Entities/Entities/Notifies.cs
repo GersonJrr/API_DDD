@@ -15,8 +15,10 @@ namespace Entities.Entities
         }  
 
         [NotMapped]
-        public string NomePropriedade { get;set; }  
-        public string mensagem { get;set; }  
+        public string NomePropriedade { get;set; }
+        [NotMapped]
+        public string mensagem { get;set; }
+        [NotMapped]
         public List<Notifies> Notificacoes { get;set; }  
 
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
