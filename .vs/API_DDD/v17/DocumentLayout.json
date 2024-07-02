@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBB02E8-60DB-4014-87B0-777D2369EE8C}|Domain\\Domain.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\domain\\services\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBB02E8-60DB-4014-87B0-777D2369EE8C}|Domain\\Domain.csproj|solutionrelative:domain\\services\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBB02E8-60DB-4014-87B0-777D2369EE8C}|Domain\\Domain.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\domain\\interfaces\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBB02E8-60DB-4014-87B0-777D2369EE8C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E5ED8D-34D2-4EC3-9FB1-2E94A9F4D3A9}|WebApis\\WebApis.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\webapis\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E5ED8D-34D2-4EC3-9FB1-2E94A9F4D3A9}|WebApis\\WebApis.csproj|solutionrelative:webapis\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|c:\\users\\junio\\desktop\\projeto ddd\\api_ddd\\infrastructure\\repository\\repositories\\repositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43139682-5841-4895-B692-8E4B5D57DC61}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repositories\\repositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryMessage.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repositories\\RepositoryMessage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:37:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Domain\\Services\\ServiceMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\ServiceMessage.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Domain\\Services\\ServiceMessage.cs",
+              "RelativeToolTip": "Domain\\Services\\ServiceMessage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:30:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Domain\\Interfaces\\IMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IMessage.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\Domain\\Interfaces\\IMessage.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:05:19.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\WebApis\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "WebApis\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Projeto DDD\\API_DDD\\WebApis\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "WebApis\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAswE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:47:07.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
